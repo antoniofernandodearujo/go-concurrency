@@ -23,8 +23,8 @@ Siga os passos abaixo para rodar o projeto localmente em sua máquina:
 
 1️⃣ Clone o Repositório
 ```bash
-  git clone https://github.com/seu-usuario/ticket-purchase-service.git
-  cd ticket-purchase-service
+  git clone https://github.com/antoniofernandodearujo/go-concurrency
+  cd go-concurrency
 ```
 
 2️⃣ Compilar e Executar
